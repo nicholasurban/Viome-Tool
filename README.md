@@ -9,12 +9,12 @@
 
 ## Taking Control of My Data
 
-> I wanted my recommendations in a simple table. So I intercepted some API traffic, checked the queries, and used Python to generate HTML and CSV recommendation files.
+> I wanted my recommendations in a simple table. So I intercepted some API traffic, checked the queries, and used Python to generate `HTML` and `CSV` recommendation files.
 
 ## Directions
 
 > 1. Download this .zip
-> 2. Two options to run:
->       - Put your Viome credentials into config.py
->       - Run directly from the command line
+> 2. Two options to login:
+>       - Put your Viome credentials into `config.py` 
+>       - Run directly from the command line and you will be prompted for your Viome credentials
 > 3. Status: [SUCCESS] console output indicates the tool ran successfully.
