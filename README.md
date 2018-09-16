@@ -5,7 +5,7 @@
 
 ## Motivation
 
-> Aside from a bulky PDF document, Viome does not allow users to export data. I reached out to customer support and they let me know that there are no plans to allow exporting to CSV or other formats. The mobile app requires me to login every single time I open it.
+> Aside from a bulky PDF document, Viome does not allow users to export data. I reached out to customer support and they informed me that they have no plans to allow CSV data exportation. The mobile app requires me to login every single time I open it.
 
 ## Taking Control of My Data
 
